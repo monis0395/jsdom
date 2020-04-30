@@ -8,17 +8,8 @@
     "whatwg",
     "w3c"
   ],
-  "maintainers": [
-    "Elijah Insua <tmpvar@gmail.com> (http://tmpvar.com)",
-    "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
-    "Sebastian Mayr <sebmaster16@gmail.com> (https://blog.smayr.name/)",
-    "Joris van der Wel <joris@jorisvanderwel.com>",
-    "Timothy Gu <timothygu99@gmail.com> (https://timothygu.me/)",
-    "Magne Andersson <code@zirro.se> (https://zirro.se/)",
-    "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
-  ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": "monis0395/jsdom",
   "dependencies": {
     "abab": "^2.0.3",
     "acorn": "^7.1.1",
